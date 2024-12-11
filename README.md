@@ -23,7 +23,7 @@ zBuilder is a powerful tool that enhances the capabilities of IBM DBB, providing
 
 2. Navigate to the cloned directory:
    ```bash
-   cd zBuilder-configuration
+   cd /etc/dbb/build
    ```
 
 3. Follow the configuration steps outlined in the next section.
