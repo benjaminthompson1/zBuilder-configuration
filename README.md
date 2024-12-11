@@ -1,6 +1,6 @@
 # IBM DBB: Setting up and configuring zBuilder
 
-This repository contains configuration files and instructions for setting up and configuring zBuilder, an integrated framework for IBM Dependency Based Build (DBB).
+This repository contains configuration files and instructions for configuring zBuilder, an integrated framework for IBM Dependency Based Build (DBB).
 
 ## Overview
 
@@ -38,23 +38,3 @@ Detailed configuration steps can be found in the official IBM documentation. Her
 4. Set up your project structure
 
 For more detailed instructions, refer to the [official IBM documentation](https://www.ibm.com/docs/en/dbb/3.0?topic=customization-setting-up-integrated-zbuilder-framework).
-
-## Usage
-
-Provide basic usage instructions here, such as how to run a build or any common commands.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-Include license information here.
-
-## Support
-
-For issues related to this configuration, please open an issue in this repository. For general zBuilder and DBB support, please refer to IBM's official support channels.
-
-Citations:
-[1] https://www.ibm.com/docs/en/dbb/3.0?topic=customization-setting-up-integrated-zbuilder-framework
-[2] https://github.com/benjaminthompson1/zBuilde
